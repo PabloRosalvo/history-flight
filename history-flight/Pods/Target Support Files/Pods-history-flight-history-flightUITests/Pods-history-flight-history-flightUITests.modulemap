@@ -1,0 +1,6 @@
+framework module Pods_history_flight_history_flightUITests {
+  umbrella header "Pods-history-flight-history-flightUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

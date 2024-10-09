@@ -1,0 +1,6 @@
+framework module Pods_history_flight {
+  umbrella header "Pods-history-flight-umbrella.h"
+
+  export *
+  module * { export * }
+}
