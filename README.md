@@ -6,17 +6,18 @@ O projeto **History Flight** é uma aplicação móvel desenvolvida para exibir 
 ## Funcionalidades
 - Exibição do histórico de voos de um usuário.
 - Detalhamento completo dos dados de cada voo.
-- Filtros para visualização de diferentes tipos de voos (ex.: concluídos, cancelados, futuros).
+- Filtros para visualização de diferentes tipos de voos (ex.: concluídos, cancelados, atrasados).
 - Navegação intuitiva para acessar os detalhes dos voos.
 
 ## Tecnologias Utilizadas
 - **Linguagem**: Swift
 - **Arquitetura**: MVVM-C (Model-View-ViewModel-Coordinator), separando claramente as responsabilidades das classes.
 - **Frameworks**:
-  - Combine (para programação reativa)
   - UIKit (ViewCode)
   - SwiftUI (para a tela de lista)
-  - **Ferramentas de monitoramento**: NFX (para monitoramento de rede)
+  - Quick e Nimble
+  - URLSession
+  - String Catalog
 
 ## Destaques do Projeto
 - O projeto tem quase **100% de cobertura de testes** nas classes principais.
