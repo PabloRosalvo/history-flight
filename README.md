@@ -47,3 +47,17 @@ O projeto segue uma arquitetura bem definida com **ViewModel**, **Coordinator**,
 ### Clonando o Repositório
 1. git clone https://github.com/PabloRosalvo/history-flight.git
 2. rodar pod install
+
+
+### Imagem abaixo é ilustrando os testes e cobertura 
+
+![Captura de Tela 2024-10-09 às 19 37 05](https://github.com/user-attachments/assets/81eef86c-0b8e-4470-8b2f-6662ea4ff0bf)
+
+![Captura de Tela 2024-10-09 às 19 37 28](https://github.com/user-attachments/assets/a4ebad3e-2000-4f57-adc3-d0decd8a4dda)
+
+
+### Video abaixo é o fluxo de forma simples porem bem arquitetado tecnicamente. 
+
+
+https://github.com/user-attachments/assets/168e8160-8e9c-4b51-9b95-bb8a08f1fd3f
+
