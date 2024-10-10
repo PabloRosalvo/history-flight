@@ -1,0 +1,159 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ → %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ → %2$@"
+          }
+        }
+      }
+    },
+    "Atrasados" : {
+
+    },
+    "Avião: %@" : {
+
+    },
+    "Cancelados" : {
+
+    },
+    "check_internet" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check Internet"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Verifique o seu sinal de internet :)"
+          }
+        }
+      }
+    },
+    "click_here_to_access_list" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Click here to access the list :)"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clique aqui para acessar a lista :)"
+          }
+        }
+      }
+    },
+    "Concluídos" : {
+
+    },
+    "Data: %@ até %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Data: %1$@ até %2$@"
+          }
+        }
+      }
+    },
+    "description_home" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Have full control over your flights! See routes, schedules and the status of each trip in one place, always up to date and easy to access."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Tenha o controle total dos seus voos! Veja rotas, horários e o status de cada viagem em um só lugar, sempre atualizado e fácil de acessar."
+          }
+        }
+      }
+    },
+    "message_error" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oops, an error occurred\n"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ops, ocorreu um erro"
+          }
+        }
+      }
+    },
+    "Partida: %@ - Chegada: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Partida: %1$@ - Chegada: %2$@"
+          }
+        }
+      }
+    },
+    "Status: %@" : {
+
+    },
+    "title_home" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Way Airlines"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Way Airlines"
+          }
+        }
+      }
+    },
+    "title_home_button" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "see your flight history"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veja historico de seus voos"
+          }
+        }
+      }
+    },
+    "Voo: %@" : {
+
+    },
+    "Voos" : {
+
+    }
+  },
+  "version" : "1.0"
+}
