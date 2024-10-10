@@ -15,7 +15,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         let window = UIWindow(frame: UIScreen.main.bounds)
         let navigationController = UINavigationController()
         
-        // Inicializa o HomeCoordinator e chama o método start
         homeCoordinator = HomeCoordinator(navigationController: navigationController)
         homeCoordinator?.start()
 
